@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbAlertWithCircle",
+      "IbCreditCard",
+      "IbAcademicBook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Livros/Body Language - ELIZABETH KUHNKE.md": "IbAcademicBook",
+  "Livros/Negocie... - CHRISS VOSS.md": "IbAcademicBook",
+  "Livros/definições/suposições.md": "IbCreditCard",
+  "ENEM/Redação.md": "IbAcademicBook"
+}

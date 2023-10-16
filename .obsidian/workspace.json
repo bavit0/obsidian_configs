@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "32e96daf51613242",
+    "type": "split",
+    "children": [
+      {
+        "id": "481e481cb212e015",
+        "type": "tabs",
+        "dimension": 78.03468208092485,
+        "children": [
+          {
+            "id": "548eb6cb8e960642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENEM/Redação.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c9a977462ab064e7"
+          },
+          {
+            "id": "e934aa526c03d8ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0ea46ce32f6847ce",
+        "type": "tabs",
+        "dimension": 21.96531791907514,
+        "children": [
+          {
+            "id": "eb30fa01e85d80ef",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ENEM/Redação.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              }
+            },
+            "group": "c9a977462ab064e7"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5be0b19fa35c1759",
+    "type": "split",
+    "children": [
+      {
+        "id": "00cdd3363879f4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a897654bf6c951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d039981d74b8f1ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37e8899002ce399f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d424aa8555c51494",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f998fbc3a8b35d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ce80c29b989f27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENEM/Redação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da1fae1a896f65b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENEM/Redação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57d114382d72f83f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "367ebf6dc5a7007e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENEM/Redação.md"
+              }
+            }
+          },
+          {
+            "id": "ad857d4fe2da8c75",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a33952807a060773",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "e934aa526c03d8ad",
+  "lastOpenFiles": [
+    "ENEM/Defs/Repertório.md",
+    "ENEM/Redação.md",
+    "ENEM/Defs/Tema.md",
+    "ENEM/Defs/Conectivos.md",
+    "ENEM/Conteúdo.md",
+    "Livros/Body Language - ELIZABETH KUHNKE.md",
+    "links uteis.md",
+    "ENEM/Defs",
+    "Urcamp/Matematica.md",
+    "Livros/definições/suposições.md",
+    "Livros/definições/hipóteses.md",
+    "Livros/definições/imagem.md",
+    "Livros/definições/Kinesics.md",
+    "Livros/definições/não.md",
+    "Urcamp",
+    "Imagens/e3636ea6834ae90a9d4d6e81fa1dade7f2fcb8b7r1-720-542v2_uhq.jpg",
+    "Imagens/Pasted image 20230723184506.png",
+    "estudar/e3636ea6834ae90a9d4d6e81fa1dade7f2fcb8b7r1-720-542v2_uhq.jpg",
+    "estudar/Espanhol.md",
+    "ENEM",
+    "Livros/definições/tipos de vozes.md",
+    "Livros/definições/Isopraxismo.md",
+    "Livros/definições/Regra dos 7.md",
+    "Livros/definições/Perguntas.md",
+    "estudar/Gabica.md",
+    "estudar/Etnia.md",
+    "estudar/Sociologia.md",
+    "Livros/Negocie... - CHRISS VOSS.md",
+    "estudar",
+    "Livros/definições/neurocomporatmentos.md",
+    "Livros/definições/sim.md",
+    "livros/definições/hipoteses.md",
+    "Livros/definições",
+    "Livros",
+    "estudo/verbalização.md",
+    "Pasted image 20230723184452.png",
+    "Imagens/Pasted image 20230723184148.png",
+    "Imagens",
+    "Imagens/Pasted image 20230723183716.png",
+    "escola",
+    "programação",
+    "estudo"
+  ]
+}
